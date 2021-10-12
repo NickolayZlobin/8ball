@@ -28,13 +28,13 @@ answers = [
   "Весьма сомнительно"
 ]
 
-privets = [
+greetings = [
   "Привет, дорогой друг. Отвечаю на твой вопрос...",
   "Кто вопрашает, тот получит ответ:",
   "Здарвствуй, смертный. Сегодня для тебя ответ такой:"
 ]
 
-puts privets.sample
+puts greetings.sample
 puts 
 sleep 2
 puts answers.sample
